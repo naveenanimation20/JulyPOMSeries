@@ -22,7 +22,7 @@ public class TestBase {
 		driver = new ChromeDriver();
 		driver.manage().timeouts().pageLoadTimeout(Constants.PAGE_LOAD_TIME_OUT, TimeUnit.SECONDS);
 		driver.manage().deleteAllCookies();
-		driver.manage().window().maximize();		
+		//driver.manage().window().maximize();		
 		return driver;
 	}
 	
