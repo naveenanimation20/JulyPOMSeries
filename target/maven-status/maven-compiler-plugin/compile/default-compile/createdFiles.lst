@@ -1,0 +1,7 @@
+com/qa/freecrm/pages/HomePage.class
+com/qa/freecrm/pages/ContactInformationPage.class
+com/qa/freecrm/pages/LoginPage.class
+com/qa/freecrm/pages/TestBase.class
+com/qa/freecrm/pages/ContactsPage.class
+com/qa/extentreport/ExtentReporterNG.class
+com/qa/freecrm/util/Constants.class

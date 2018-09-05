@@ -1,0 +1,12 @@
+2018-09-05 16:06:51,563  INFO [main] LoginTest:34 - ******** Starting Login Class Test Cases ***************
+2018-09-05 16:07:06,760  INFO [main] LoginTest:40 - url is launched -- http://www.freecrm.com
+2018-09-05 16:07:06,767  INFO [main] LoginTest:45 - Test - loginPageTitleTest - starting
+2018-09-05 16:07:06,774  INFO [main] LoginTest:48 - login page title is: #1 Free CRM software in the cloud for sales and service
+2018-09-05 16:07:06,882  INFO [main] LoginTest:67 - Browser is closed
+2018-09-05 16:07:06,885  INFO [main] LoginTest:34 - ******** Starting Login Class Test Cases ***************
+2018-09-05 16:07:21,126  INFO [main] LoginTest:40 - url is launched -- http://www.freecrm.com
+2018-09-05 16:07:21,128  INFO [main] LoginTest:55 - Test - freeCrmLoginTest - starting
+2018-09-05 16:07:21,128  INFO [main] LoginTest:56 - Username is: naveenk
+2018-09-05 16:07:21,128  INFO [main] LoginTest:57 - Password is: test@123
+2018-09-05 16:07:44,264  INFO [main] LoginTest:59 - Test - freeCrmLoginTest - ended
+2018-09-05 16:07:44,363  INFO [main] LoginTest:67 - Browser is closed
