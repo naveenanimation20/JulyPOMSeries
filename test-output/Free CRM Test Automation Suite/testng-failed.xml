@@ -6,18 +6,8 @@
   </listeners>
   <test thread-count="5" name="Free CRM App Test Cases(failed)">
     <classes>
-      <class name="com.qa.freecrm.tests.HomePageTest">
-        <methods>
-          <include name="verifyHomePageTitleTest"/>
-          <include name="tearDown"/>
-          <include name="createNewContactTest"/>
-          <include name="setUp"/>
-          <include name="verifyContactInformationPageTest"/>
-        </methods>
-      </class> <!-- com.qa.freecrm.tests.HomePageTest -->
       <class name="com.qa.freecrm.tests.LoginTest">
         <methods>
-          <include name="freeCrmLoginTest"/>
           <include name="loginPageTitleTest"/>
           <include name="setUp"/>
           <include name="tearDown"/>
